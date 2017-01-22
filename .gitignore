@@ -1,0 +1,3 @@
+app/databases/*
+certs/*
+node_modules

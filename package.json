@@ -1,0 +1,30 @@
+{
+  "name": "skeletons-express",
+  "version": "1.0.0",
+  "description": "Skeleton for an express based backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTalex/Skeletons-express.git"
+  },
+  "author": "TTalex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTalex/Skeletons-express/issues"
+  },
+  "homepage": "https://github.com/TTalex/Skeletons-express#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "morgan": "^1.7.0",
+    "supertest": "^2.0.1"
+  }
+}
